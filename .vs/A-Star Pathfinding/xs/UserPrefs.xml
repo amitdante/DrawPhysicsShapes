@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{87402D22-8B20-70C3-C09D-BBC691B2AB2A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DrawTriangle.cs">
+    <Files>
+      <File FileName="Assets/TestPolygon.cs" Line="24" Column="11" />
+      <File FileName="Assets/Triangulator.cs" Line="1" Column="19" />
+      <File FileName="Assets/Util.cs.cs" Line="26" Column="59" />
+      <File FileName="Assets/DrawRectangle.cs" Line="84" Column="91" />
+      <File FileName="Assets/DrawController.cs" Line="98" Column="25" />
+      <File FileName="Assets/DrawShape.cs" Line="10" Column="20" />
+      <File FileName="Assets/DrawCircle.cs" Line="120" Column="21" />
+      <File FileName="Assets/DrawTriangle.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A-Star Pathfinding" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="DrawTriangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0988f0ac-2b29-4ab6-9c26-a372ce828372" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
