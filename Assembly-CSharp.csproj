@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{87402D22-8B20-70C3-C09D-BBC691B2AB2A}</ProjectGuid>
+    <ProjectGuid>{CBDD823A-8F9D-0262-D0A9-3FCA4DFAEF52}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -72,37 +72,37 @@
     <Compile Include="Assets\Scripts\Triangulator.cs" />
     <Compile Include="Assets\Scripts\Util.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/amitdhillon/A-Star Pathfinding/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/amitdhillon/PhysicsShapes/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
